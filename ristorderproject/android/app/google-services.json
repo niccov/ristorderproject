@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662961634092",
+    "project_id": "ristorderproject",
+    "storage_bucket": "ristorderproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662961634092:android:6cd5bc4dad4f2c2b0dca89",
+        "android_client_info": {
+          "package_name": "com.example.ristorderproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj2IUKrnbDOTiJ3qtVSdK786LhgovLjhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
